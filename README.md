@@ -1,3 +1,3 @@
-# web_projekt
+# PROČITAJ
 
 Klikni code pa download zip pa onda sa svog računala otvori bilo koji html
